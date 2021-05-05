@@ -3,7 +3,7 @@
   <img src=>
   </h1>
   
-# Sobre
+#✏ Sobre
 O projeto Pokedex foi criado em grupo por mim e mais dois colegas do **curso de desenvolvimento full stack da Labenu**, com o objetivo de colocarmos em prática os aprendizados adquiridos durante o curso.
 
 # Tecnologias utilizadas
@@ -13,6 +13,10 @@ O projeto Pokedex foi criado em grupo por mim e mais dois colegas do **curso de 
 -Javascript
 -Axios
 -Styled components
+# Como baixar o projeto
+* Bash
+-git clone 
+
 
 
 
