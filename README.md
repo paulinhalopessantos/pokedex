@@ -5,7 +5,7 @@
 # índice
   
   - [Sobre](#-Sobre)
-  - [Deploy da aplicação com surge](#-deploy-da-aplicação-com-surge)
+  - [Deploy da aplicação com surge](#-Deploy-da-aplicação-com-surge)
   - [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
   - [Como baixar o projeto](#-Como-baixar-o-projeto)
  
