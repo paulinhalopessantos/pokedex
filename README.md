@@ -10,7 +10,7 @@
   - [Como baixar o projeto](#-Como-baixar-o-projeto)
  
 ## ✏ Sobre
-O projeto Pokedex foi criado em grupo por mim e mais dois colegas do **curso de desenvolvimento full stack da Labenu**, com o objetivo de colocarmos em prática os aprendizados adquiridos durante o curso.
+O projeto Pokedex foi criado **em grupo** por mim e mais dois colegas do **curso de desenvolvimento full stack da Labenu**, com o objetivo de colocarmos em prática os aprendizados adquiridos durante o curso.
 
  ## Deploy da Aplicação com Surge: :dash:
 > http://boring-record.surge.sh/
